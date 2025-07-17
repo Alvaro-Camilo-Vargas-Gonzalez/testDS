@@ -111,7 +111,7 @@ public class AaAcGroupCapFields extends AA_AC_GROUP_CAP_FIELDS_cl {
 
     @Override
     public String getReplacementInfo() {
-       
+        
         return super.getReplacementInfo();
     }
 
