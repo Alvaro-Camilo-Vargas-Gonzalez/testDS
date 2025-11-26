@@ -7,7 +7,6 @@ import com.temenos.t24.component_AF_Framework_17_cl;
 import com.temenos.t24.component_EB_SystemTables_19_cl;
 import com.temenos.t24.component_EB_Template_16_cl;
 import com.temenos.tafj.common.jSession;
-import com.temenos.tafj.common.jVar;
 
 public class AaArrPreferencialPricing extends AA_ARR_PREFERENTIAL_PRICING_cl {
 
